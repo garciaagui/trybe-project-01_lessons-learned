@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h1 align="center">Projeto Lessons Learned</h1>
+<h1 align="center">Projeto Lessons Learned ✍</h1>
 
 <details>
   <summary>Sumário</summary>
@@ -9,14 +9,17 @@
     <li><a href="#tecnologias">Tecnologias</a></li>
     <li><a href="#habilidades">Habilidades</a></li>
     <li><a href="#instruções">Instruções</a></li>
+    <li><a href="#sobre-a-trybe">Sobre a Trybe</a></li>
     <li><a href="#contato">Contato</a></li>
   </ol>
 </details>
 
 ## Sobre o Projeto
-Criação de um site cujo conteúdo contempla uma série de informações sobre o curso de desenvolvimento Web da Trybe e o que foi aprendido em seus três primeiros blocos (seções). Além disso, há uma breve descrição sobre o desenvolvedor responsável pela criação do site.
+Projeto 01 do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/).
 
-O site possui elementos posicionados, estilizados e apropriadamente semânticos, tornando-o mais acessível e possibilitando melhor ranqueado.
+Este projeto se trata de um site cujo conteúdo contempla uma série de informações sobre o curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/) e o que foi aprendido em seus três primeiros blocos (seções). Além disso, há uma breve descrição sobre o desenvolvedor responsável pela criação do projeto.
+
+O site possui elementos posicionados, estilizados e semânticos, tornando-o mais acessível e possibilitando melhor ranqueamento.
 
 ![Project Lessons Learned][project-screenshot]
 <!-- [![Project Lessons Learned][project-screenshot]](https://example.com) -->
@@ -48,13 +51,19 @@ git clone git@github.com:garciaagui/trybe-project-01_lessons-learned.git
 
 <p align="right"><a href="#readme-top">Voltar ao topo</a></p>
 
+## Sobre a Trybe
+_"A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
+
+_"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais._"
+
+<p align="right"><a href="#readme-top">Voltar ao topo</a></p>
+
 ## Contato
 Guilherme Garcia - garciaguig@gmail.com
 
 [![Linkedin][linkedin-badge]][linkedin-url] [![GitHub][github-badge]][github-url] [![Instagram][instagram-badge]][instagram-url]
 
 <p align="right"><a href="#readme-top">Voltar ao topo</a></p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [project-screenshot]: ./project-screenshot.png
