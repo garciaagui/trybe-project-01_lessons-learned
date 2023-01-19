@@ -24,8 +24,12 @@ O site possui elementos posicionados, estilizados e semânticos, tornando-o mais
 ![Project Lessons Learned][project-screenshot]
 <!-- [![Project Lessons Learned][project-screenshot]](https://example.com) -->
 
+<br/>
+
 ## Tecnologias
 [![HTML5][html5-badge]][html5-url] [![CSS3][css3-badge]][css3-url]
+
+<br/>
 
 ## Como Executar o Projeto
 Para rodar o projeto localmente, siga os passos abaixo.
@@ -36,6 +40,8 @@ git clone git@github.com:garciaagui/trybe-project-01_lessons-learned.git
 ```
 2. Vá para `index.html` e utilize a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para abrir a página em seu navegador.
 
+<br/>
+
 ## Habilidades
 <ul>
   <li>Utilização do HTML para construção de páginas web.</li>
@@ -43,10 +49,14 @@ git clone git@github.com:garciaagui/trybe-project-01_lessons-learned.git
   <li>Utilização do CSS para adicionar estilo e posicionar elementos.</li>
 </ul>
 
+<br/>
+
 ## Sobre a Trybe
 _"A [Trybe](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
 _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais._"
+
+<br/>
 
 ## Contato
 Projeto desenvolvido por Guilherme Garcia. Seguem abaixo minhas redes sociais e meios de contato.
